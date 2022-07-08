@@ -28,7 +28,7 @@ All the dependencies and required libraries are included in the file <code>requi
 
 #### Our model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.5.0</code>
 
-<a href="https://drive.google.com/file/d/1anYeUekLC7aQjmVms3vJ1GwI1NwNsNZa/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1anYeUekLC7aQjmVms3vJ1GwI1NwNsNZa"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/akki2089/face-mask-detection/blob/master/plot.JPG)
