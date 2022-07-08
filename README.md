@@ -2,7 +2,7 @@
 
 <h4>Face Mask Detection System built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.</h4>
 
-https://user-images.githubusercontent.com/43907561/177964531-b5ee4ef3-371c-48d3-a88e-3eafebf09e2a.mov
+![video](https://user-images.githubusercontent.com/43907561/177964905-4a449c5c-ba49-4717-85cd-201cee28f5b9.gif)
 
 # Framework/Libraries Used
 OpenCV
